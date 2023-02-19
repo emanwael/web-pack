@@ -1,0 +1,13 @@
+
+.nav{
+    
+  background-color: rgba(45, 9, 50, 0.822);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    color: white;
+    font-size: 50px;
+    line-height: 1.4;
+  }
+  

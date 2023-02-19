@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.createElement("header");e.innerHTML="Hello in my store",e.classList.add("nav"),document.body.appendChild(e);const t=document.getElementsByTagName("header")[0],d=document.createElement("div");d.classList.add("slider"),t.after(d)})();
